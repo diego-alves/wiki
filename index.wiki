@@ -5,4 +5,8 @@
 * [[VPS Setup]]: Details of my VPS Setup Script
 * [[Git Fork]]: Maintaining Fork
 
+=== Languages ===
 
+* [[python.wiki|Python]]
+* 
+* 
